@@ -53,7 +53,7 @@ To analyze business performance through an interactive Power BI report that high
 
 
 ## 📊 Report Preview
-_Sales_Analysis_Report_Snapshot_.png
+![Sales Report Preview](Sales_Analysis_Report_Snapshot.png)
 
 ## 👤 Author
 **Nalgar Ahmed Faheen**  
